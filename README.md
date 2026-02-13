@@ -97,7 +97,6 @@ Uso recomendado de:
 /icons
 /css
 /js
-/components
 /pages
 index.html
 ---
