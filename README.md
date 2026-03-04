@@ -2,6 +2,7 @@
 
 ## 📌 Descrição do Projeto
 
+teste
 Este projeto tem como objetivo desenvolver o **site institucional do Centro Tecnológico Eduvale**, contendo páginas informativas e módulos de divulgação acadêmica e social. O sistema será construído **exclusivamente em frontend**, simulando um ambiente real de entrega para uma instituição.
 
 O foco principal do projeto é aplicar boas práticas de desenvolvimento web, priorizando:
